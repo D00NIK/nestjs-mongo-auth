@@ -32,7 +32,7 @@ Includes:<br>
 • User schema<br>
 • Cookie-based sessions with db store<br>
 
-Perfect starter.
+A perfect starter.
 
 ## Installation
 
