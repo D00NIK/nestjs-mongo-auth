@@ -68,5 +68,4 @@ $ npm run test:cov
 
 ## Credits
 
-All credits to NestJS team.<br>
-Website - [https://nestjs.com](https://nestjs.com/)
+All credits to [NestJS](https://github.com/nestjs/nest) team.
