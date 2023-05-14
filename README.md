@@ -26,6 +26,14 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Includes:
+• Authentication
+• MongoDB connection
+• User schema
+• Cookie-based sessions with db store
+
+Perfect starter.
+
 ## Installation
 
 ```bash
