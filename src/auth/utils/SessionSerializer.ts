@@ -1,7 +1,9 @@
+import { Injectable } from '@nestjs/common';
 import { PassportSerializer } from '@nestjs/passport';
 import { Types } from 'mongoose';
 import { UsersService } from 'src/users/services/users/users.service';
 
+@Injectable()
 export class SessionSerializer extends PassportSerializer {
   constructor(private readonly userService: UsersService) {
     super();
